@@ -67,7 +67,6 @@
 ---
 
 ### 🔗 Connect With Me
-### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/arhamalee">
