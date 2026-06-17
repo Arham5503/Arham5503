@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arham%20Ali;Frontend%20Developer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20MERN%20Stack" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+I'm+Arham+Ali;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Open+to+Work+in+Lahore" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arham5503&label=Profile+Views&color=6366F1&style=flat" alt="profile views" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arham5503&label=Profile+Views&color=6366F1&style=flat" alt="profile views" />
