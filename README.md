@@ -83,8 +83,8 @@
 </a>
 </p>
 
----
 
-<p align="center">
+
+<!-- <p align="center">
   <i>Open to Frontend & MERN Stack roles in Lahore — let's build something great!</i>
-</p>
+</p> -->
