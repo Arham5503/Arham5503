@@ -14,11 +14,21 @@
 ### 👨‍💻 About Me
 
 - 💼 Frontend Developer at **Malit Solutions**, Lahore
-- 🎓 BS Computer Science @ GCUF (2022 – 2026)
-- 🔨 Currently building **Taskora** — a collaborative MERN stack task management app
+- 🎓 BS Computer Science graduate, **GCUF** (2026)
+- 🔨 Currently building **TuitionDesk**, a tuition center management app with fee tracking, attendance, and automated WhatsApp fee reminders for parents
+- ✅ Shipped **Taskora**, a collaborative MERN stack task management app (my Final Year Project)
 - 🌱 Leveling up in **TypeScript**, **Next.js App Router**, and **system design**
 - 📍 Based in Lahore, Pakistan
 - 💬 Ask me about React.js, Next.js, Redux Toolkit, Tailwind CSS, REST APIs
+
+---
+
+### 🚀 Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| **TuitionDesk** | Management software for tuition centers: student fees, attendance, class-level teacher access, and automatic WhatsApp reminders for overdue fees. Built for a real tuition center to run on daily. | 🔨 In progress |
+| **Taskora** | Collaborative task management app built on the MERN stack (React, Node.js, Express, MongoDB), with separate frontend and backend. | ✅ Completed |
 
 ---
 
@@ -72,6 +82,9 @@
 ### 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://arhamali.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/arhamalee">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -79,12 +92,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arhamali4510@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
-
-<!-- <p align="center">
-  <i>Open to Frontend & MERN Stack roles in Lahore — let's build something great!</i>
-</p> -->
+<p align="center">
+  <i>Open to Frontend & MERN Stack roles — let's build something great!</i>
+</p>
